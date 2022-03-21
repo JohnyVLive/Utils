@@ -1,8 +1,9 @@
-""" Find number in the middle of file name which starts with # symbol
-and add this number to the beginning of file name.
+""" This script finds number in the middle of file name which starts with # symbol
+and adds this number to the beginning of file name.
 
-Copy file rename-files.py to target folder
-Run in shell with command python3 rename-files.py
+Instruction:
+1. Copy file rename-files.py to target folder
+2. Run in shell with command: python3 rename-files.py
 
 Script will find all files in directory and rename them.
 """
